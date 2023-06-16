@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f343ee9f.css",
-    "main.js": "/static/js/main.f44b2c1b.js",
+    "main.css": "/static/css/main.9c52a6ee.css",
+    "main.js": "/static/js/main.070a1e62.js",
     "static/media/agentProduct.svg": "/static/media/agentProduct.ef1584290068ce93eeff7cd2ad184d24.svg",
     "static/media/videoImg.png": "/static/media/videoImg.85007c96ac0546cd34c8.png",
     "static/media/Group71.svg": "/static/media/Group71.7980b996a4e711bb3292c0191ef13b3e.svg",
@@ -34,6 +34,7 @@
     "static/media/facebook.svg": "/static/media/facebook.6f822c8c0d3b2a1294c53b8d30d4cbcc.svg",
     "static/media/send.svg": "/static/media/send.6b839b278574c27098252f058764aa05.svg",
     "static/media/playButton.svg": "/static/media/playButton.cd7d7da2ded8612590ef.svg",
+    "static/media/edit.svg": "/static/media/edit.aff432a072ab92626459c65b9e1d6729.svg",
     "static/media/Ellipse94.svg": "/static/media/Ellipse94.6ecad9ec26b48d19a8f2.svg",
     "static/media/InlinePseudo.svg": "/static/media/InlinePseudo.174582cd60be967395a8.svg",
     "static/media/Rectangle28Blue.svg": "/static/media/Rectangle28Blue.106e6c972b11f0164453.svg",
@@ -54,11 +55,11 @@
     "static/media/Rectangle28Yellow.svg": "/static/media/Rectangle28Yellow.65c4de3377f164b8e57b.svg",
     "static/media/Ellipse86.svg": "/static/media/Ellipse86.dc52f2ffc3624afeb29f.svg",
     "static/media/ellipse85.svg": "/static/media/ellipse85.476ed9719f2b8ef47c78.svg",
-    "main.f343ee9f.css.map": "/static/css/main.f343ee9f.css.map",
-    "main.f44b2c1b.js.map": "/static/js/main.f44b2c1b.js.map"
+    "main.9c52a6ee.css.map": "/static/css/main.9c52a6ee.css.map",
+    "main.070a1e62.js.map": "/static/js/main.070a1e62.js.map"
   },
   "entrypoints": [
-    "static/css/main.f343ee9f.css",
-    "static/js/main.f44b2c1b.js"
+    "static/css/main.9c52a6ee.css",
+    "static/js/main.070a1e62.js"
   ]
 }
