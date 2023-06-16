@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.bdda88c0.css",
-    "main.js": "/static/js/main.c0024ad9.js",
+    "main.js": "/static/js/main.04ea6b4b.js",
     "static/media/agentProduct.svg": "/static/media/agentProduct.ef1584290068ce93eeff7cd2ad184d24.svg",
-    "static/media/Group71Rofl.svg": "/static/media/Group71Rofl.c59f9f426b63ad78cf3db9770a6519cd.svg",
+    "static/media/Group71Rofl.svg": "/static/media/Group71Rofl.4fc780a17ce97e5f1decc170c66c73ac.svg",
     "static/media/Feda.jpg": "/static/media/Feda.0ac951ce6a446c1d59b0.jpg",
     "static/media/videoImg.png": "/static/media/videoImg.85007c96ac0546cd34c8.png",
     "static/media/lato-v24-latin-900.svg": "/static/media/lato-v24-latin-900.507133c1c938007abafa.svg",
@@ -57,10 +57,10 @@
     "static/media/Ellipse86.svg": "/static/media/Ellipse86.dc52f2ffc3624afeb29f.svg",
     "static/media/ellipse85.svg": "/static/media/ellipse85.476ed9719f2b8ef47c78.svg",
     "main.bdda88c0.css.map": "/static/css/main.bdda88c0.css.map",
-    "main.c0024ad9.js.map": "/static/js/main.c0024ad9.js.map"
+    "main.04ea6b4b.js.map": "/static/js/main.04ea6b4b.js.map"
   },
   "entrypoints": [
     "static/css/main.bdda88c0.css",
-    "static/js/main.c0024ad9.js"
+    "static/js/main.04ea6b4b.js"
   ]
 }
